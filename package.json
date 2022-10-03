@@ -1,0 +1,9 @@
+{
+  "name": "three-car-website",
+  "version": "1.0.0",
+  "description": "A prototype of a 3d website for car sells",
+  "main": "index.js",
+  "repository": "https://github.com/AdrianoLupossa/three-car-website.git",
+  "author": "adrianolupossa <adrianolupossa@gmail.com>",
+  "license": "MIT"
+}
